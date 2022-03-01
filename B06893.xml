@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The knight and the begger-wench. Which doth a wanton prank unfold, in as merry a story as ever was told. To the tune of, The king's delight: or, turn-coat, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06893</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.40.m.9.[81]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[241]</idno>
+            <idno type="EEBO-CITATION">99885283</idno>
+            <idno type="PROQUEST">ocm99885283</idno>
+            <idno type="VID">183397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183397)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:2[82a]; A5:2[188])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The knight and the begger-wench. Which doth a wanton prank unfold, in as merry a story as ever was told. To the tune of, The king's delight: or, turn-coat, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut).  </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for A.M. and sold by the booksellers of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Verse: "I met with a jovial beggar ..."</note>
+                  <note>Item at A3:2[82] imperfect: torn at head and foot with loss of text.</note>
+                  <note>Item at A5:2[188] imperfect: trimmed with loss of imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Item at A3:2[82] with: The crafty country woman: or The pillory baker out-witted (Wing C6771) printed on verso.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183397:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>The KNIGHT and the BEGGER-WENCH.</head>
+            <argument>
+               <lg>
+                  <l>Which doth a wanton Prank unfold,</l>
+                  <l>In as merry a Story as ever was told.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>The King's Delight:</hi> or, <hi>Turn-Coat,</hi> &amp;c.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>I Met with a jovial Beggar,</l>
+               <l>And into the fields I led her,</l>
+               <l>and I laid her upon the ground;</l>
+               <l>Her face did not invite me,</l>
+               <l>Nor her ſmock did much delight me,</l>
+               <l>but I think the young Whore was ſound;</l>
+               <l>With Ladies both freſh and gay</l>
+               <l>I often did ſport and play,</l>
+               <l>Yet a Beggar I'll take</l>
+               <l>For varieties ſake,</l>
+               <l>She'l pleaſe me as well as they.</l>
+            </lg>
+            <lg>
+               <l>I have a good Wife, as fair</l>
+               <l>As ever drew Engliſh air,</l>
+               <l>her pleaſure is paſt compare,</l>
+               <l>Her cherry lips, cheeks, and eyes,</l>
+               <l>Her belly, her breaſt, and thighs,</l>
+               <l>might any but I ſuffice;</l>
+               <l>With her I ſo often pray,</l>
+               <l>And weary my time away,</l>
+               <l>That a fouler to me,</l>
+               <l>Would be fairer th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſhe,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>This Beggar I ſhould deſcribe,</l>
+               <l>Without any hope of bribe,</l>
+               <l>was one<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Maundring tribe;</l>
+               <l>She had a fine foot and leg,</l>
+               <l>As <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ble as doe or ſtag,</l>
+               <l>and then ſhe began to beg,</l>
+               <l>So ſoon as my horſe ſhe ſees,</l>
+               <l>She fell down upon her knees,</l>
+               <l>The Whore had a ſack,</l>
+               <l>That hung at her back</l>
+               <l>Well furniſh'd with bread and cheeſe.</l>
+            </lg>
+            <lg>
+               <l>She ſtruck me into a dump,</l>
+               <l>the Iade was both young and plump,</l>
+               <l>with a round and ranting rump;</l>
+               <l>Her feature had ſo much force,</l>
+               <l>It raiſed in me remorſe,</l>
+               <l>and drew me quite off my horſe;</l>
+               <l>But when I began to wooe,</l>
+               <l>She told me ſhe would not do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Quoth I, Pretty Mort,</l>
+               <l>Let me ſhew you ſome ſport;</l>
+               <l>She kiſſ me, and anſwered <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>My horſe to a twig I ty'd,</l>
+               <l>The Beggar-wench then reply'd,</l>
+               <l>Good Maſter get up and r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de;</l>
+               <l>Yes, ſo I will ſtraight (thought I,)</l>
+               <l>With that I drew ſometing nigh,</l>
+               <l>ſhe ſtrugled and cry'd, Fie, fie,</l>
+               <l>I am but a Beggar by breed;</l>
+               <l>Quoth I, Let me do this deed,</l>
+               <l>For he that will ſcorn,</l>
+               <l>A Beggar-wench born.</l>
+               <l>May want a good turn at need.</l>
+            </lg>
+            <lg>
+               <l>Then into her arms I claps,</l>
+               <l>Quoth ſhe, Now I'm in your traps,</l>
+               <l>what ſhall I do with my ſcraps?</l>
+               <l>Throw them in the buſh, ſaid I.</l>
+               <l>No, no, ſhe did ſtraight reply,</l>
+               <l>there's pig, and pudding, and pie,</l>
+               <l>We beg for better or worſe,</l>
+               <l>My b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſings I will not curſe.</l>
+               <l>Why then, quoth I,</l>
+               <l>Go run preſently</l>
+               <l>And throw it 'thwart my horſe.</l>
+            </lg>
+            <lg>
+               <l>She then (in a merry vein)</l>
+               <l>Did trip to me back again,</l>
+               <l>to put me out of my pain.</l>
+               <l>She dazelled ſo my ſight,</l>
+               <l>That neither by day or night,</l>
+               <l>I ever had ſuch delight,</l>
+               <l>So cloſe to me now ſhe clings,</l>
+               <l>And flutters abroad her wings.</l>
+               <l>But my baſhful jade,</l>
+               <l>Aſham'd of the trade,</l>
+               <l>Brake looſe and away ſhe flings.</l>
+            </lg>
+            <lg>
+               <l>I riſe and away ran I,</l>
+               <l>The Beggar wench then did cry,</l>
+               <l>My pig and my pudding-pie;</l>
+               <l>I ran and I curſed and ſwore,</l>
+               <l>Vntil I came to my door,</l>
+               <l>but the horſe was got home before:</l>
+               <l>I bad the Wench ſtay behind,</l>
+               <l>And told her I would be kind;</l>
+               <l>But when I came home,</l>
+               <l>I look'd like a Mome,</l>
+               <l>I wiſh'd that I had been blind.</l>
+            </lg>
+            <lg>
+               <l>My Wife and my Neighbours all</l>
+               <l>Did laugh, ye might hear 'em bawl</l>
+               <l>from <hi>Temple-bar</hi> to <hi>White-hall,</hi>
+               </l>
+               <l>My Sweet-heart's p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ovant was found,</l>
+               <l>Which lay in the wallet bound,</l>
+               <l>and ſcatter'd about the ground;</l>
+               <l>The ſight of my Wife did daunt,</l>
+               <l>And make my heart prick and pant,</l>
+               <l>Sir <hi>Thomas,</hi> quoth ſhe,</l>
+               <l>And ſpake merrily,</l>
+               <l>Where got you this good provant?</l>
+            </lg>
+            <lg>
+               <l>Thought I, it is beſt to bear up,</l>
+               <l>Although of this venemous cup</l>
+               <l>I take but a ſorrowful ſup,</l>
+               <l>In the twinkling of one's eyes,</l>
+               <l>I thought of a thouſand lyes,</l>
+               <l>but ne'r a one would ſuffice;</l>
+               <l>I many things had in doubt,</l>
+               <l>Yet could not well bring 'em about,</l>
+               <l>As I went to begin,</l>
+               <l>The Wench came in,</l>
+               <l>And ſo came the ſtory out.</l>
+            </lg>
+            <lg>
+               <l>My Lady did laugh out-right,</l>
+               <l>As if ſhe had much delight,</l>
+               <l>but I found it not ſo at night;</l>
+               <l>I gave the poor Wench a peice,</l>
+               <l>But wiſht ſhe had been in <hi>Greece,</hi>
+               </l>
+               <l>to tell ſuch a tale as this;</l>
+               <l>My Madam doth make it ſlight,</l>
+               <l>But I have got nothing by't,</l>
+               <l>For when ſhe wants her wiſh,</l>
+               <l>It is thrown in my diſh,</l>
+               <l>I'd better been hang'd out-right.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
